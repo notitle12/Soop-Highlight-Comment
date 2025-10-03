@@ -1,6 +1,6 @@
-# Soop Comment Link Saver (비공식 확장 프로그램)
+# Soop Highlight Comment Link Saver (비공식 확장 프로그램)
 
-**안내**  
+## 안내
 이 프로젝트는 [SoopLive](https://www.sooplive.co.kr)용 **비공식 개인 편의 확장 프로그램**입니다.  
 Soop 또는 운영사와 아무런 관련이 없으며, 공식 지원을 받지 않습니다.  
 본 확장프로그램은 **저작권자가 허락하지 않는 한 수정, 재배포, 공개 배포가 금지**됩니다.  
@@ -34,6 +34,7 @@ Soop 또는 운영사와 아무런 관련이 없으며, 공식 지원을 받지 
 ---
 
 ## 📂 폴더 구조
+```plaintext
 soop-comment-link-saver/
 ├─ manifest.json
 ├─ content.js
@@ -42,9 +43,6 @@ soop-comment-link-saver/
 ├─ popup.js
 ├─ README.md
 └─ LICENSE
-
-yaml
-코드 복사
 
 ---
 
