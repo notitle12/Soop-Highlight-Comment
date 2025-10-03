@@ -34,7 +34,7 @@ Soop 또는 운영사와 아무런 관련이 없으며, 공식 지원을 받지 
 ---
 
 ## 📂 폴더 구조
-```plaintext
+```
 soop-comment-link-saver/
 ├─ manifest.json
 ├─ content.js
@@ -43,7 +43,7 @@ soop-comment-link-saver/
 ├─ popup.js
 ├─ README.md
 └─ LICENSE
-
+```
 ---
 
 ## 라이선스
